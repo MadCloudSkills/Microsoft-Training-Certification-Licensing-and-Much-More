@@ -1,1 +1,1 @@
-# Microsoft-Cloud-Seller-Training
+# Microsoft-Cloud-Seller-Resources
