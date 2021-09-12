@@ -29,3 +29,6 @@ Microsoft Cloud readiness & learning resources. Training & certification materia
 * [Product Activation & Key Information](https://licensingapps.microsoft.com/product-activation)
 * [Resources for Microsoft Volume Licensing customers](https://www.microsoft.com/en-gb/Licensing/existing-customer/existing-customers?rtc=1)
 * [Office Help & Training](https://support.microsoft.com/en-us/office)
+
+
+*Lavinia at [Mad Cloud Skills](www.madcloudskills.com)*
