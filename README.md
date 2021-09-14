@@ -31,4 +31,4 @@ Microsoft Cloud readiness & learning resources. Training & certification materia
 * [Office Help & Training](https://support.microsoft.com/en-us/office)
 
 
-*Lavinia at [Mad Cloud Skills](www.madcloudskills.com)*
+*Lavinia at [Mad Cloud Skills](https://madcloudskills.com/)*
